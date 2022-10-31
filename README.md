@@ -14,6 +14,7 @@ This is a simple application for making a to do list
 - MacOS
 - Windows
 - Linux
+- Android
 
 <img width="564" alt="Screenshot 2022-10-31 at 12 42 54 AM" src="https://user-images.githubusercontent.com/62524401/198956860-94633b33-7542-4bf8-b344-4333906cde31.png">
 
