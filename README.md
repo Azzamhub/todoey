@@ -10,7 +10,7 @@ This is a simple application for making a to do list
 4. Check-off tasks
 
 #### Platforms
-- IOS
+- iOS
 - MacOS
 - Windows
 - Linux
